@@ -1,3 +1,5 @@
 # Hello
 ## Learning Rust
-Run command `cargo run main`
+Make File `cargo new file_name`
+
+Run command `cargo run`
